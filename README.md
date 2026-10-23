@@ -33,7 +33,7 @@ You play a SOC analyst with two virtual machines:
 
 ## Run it
 
-**Locally:** download the repo and open `index.html` in any modern browser.
+**Locally:** download the repo and open `sverse-malware analysis lab.html` in any modern browser.
 ```
 
 ## Toolbox commands (SB-ANX01)
